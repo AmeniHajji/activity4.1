@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">activité 4.1</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="remember_me_my_login_informations">Remember me my login informations</string>
+    <string name="checkbox">ch</string>
+    <string name="name">nom</string>
+    <string name="password">mdp</string>
+</resources>
